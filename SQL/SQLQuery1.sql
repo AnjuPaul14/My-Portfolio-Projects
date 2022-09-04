@@ -1,3 +1,7 @@
+--COVID-19 DATA EXPLORATION
+--DATASET URL IN THE README FILE
+
+
 select * 
 from PortfolioProjects..CovidDeaths
 order by 3,4
