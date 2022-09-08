@@ -1,3 +1,8 @@
+-----------------------------------------------------------
+COVID-19 WORLD DATA - EXPLORATORY DATA ANALYSIS
+-----------------------------------------------------------
+
+
 select * 
 from PortfolioProjects..CovidDeaths
 order by 3,4
